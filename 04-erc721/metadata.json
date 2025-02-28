@@ -1,0 +1,24 @@
+{
+    "name": "DogeN",
+    "description": "Xienina NFT",
+    "symbol": "DN",
+    "image": "https://imgur.com/jrXZ2d2",
+    "attributes": [
+        {
+            "trait_type": "event",
+            "value": "DOGEN BADGE"
+        },
+        {
+            "trait_type": "year",
+            "value": "2025"
+        },
+        {
+            "trait_type": "region",
+            "value": "Luzon"
+        },
+        {
+            "trait_type": "website",
+            "value": "selyo.quest"
+        }
+    ]
+}
