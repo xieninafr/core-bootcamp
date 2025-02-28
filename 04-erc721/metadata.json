@@ -2,7 +2,7 @@
     "name": "DogeN",
     "description": "Xienina NFT",
     "symbol": "DN",
-    "image": "https://imgur.com/jrXZ2d2",
+    "image": "https://i.imgur.com/0OXyb26.jpeg",
     "attributes": [
         {
             "trait_type": "event",
@@ -18,7 +18,7 @@
         },
         {
             "trait_type": "website",
-            "value": "selyo.quest"
+            "value": "quest"
         }
     ]
 }
